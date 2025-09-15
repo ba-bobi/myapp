@@ -2,7 +2,7 @@
 import React from "react";
 import "./App.css";
 
-// ⬇️ 여기에 본인 정보와 노션/링크드인 주소만 먼저 채워도 바로 보기 좋아요.
+// ⬇️ 여기에 본인 정보와 노션/링크드인 주소만 먼저 채워도 바로 보기 좋아요
 const profile = {
   name: "Shin, Bobi",
   title: "Marketing Data Analyst",
